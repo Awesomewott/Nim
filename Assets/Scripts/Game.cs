@@ -27,4 +27,9 @@ public class Game : MonoBehaviour
          GamePieces[] rowFour = new GamePieces[6];
 
     }
+
+    public void RemovePiece(GamePieces[] pieces)
+    {
+        Destroy(pieces[0]);
+    }
 }

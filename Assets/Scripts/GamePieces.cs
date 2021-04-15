@@ -4,9 +4,5 @@ using UnityEngine;
 
 public class GamePieces : MonoBehaviour
 {
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
 }
